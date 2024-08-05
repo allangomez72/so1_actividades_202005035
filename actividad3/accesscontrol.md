@@ -197,3 +197,7 @@ y la privacidad de los datos. Todo esto contribuye a un control para sabesr quie
 4. `su` para cambiar de usuario.
 5. `whoami` para saber el usuario actual.
 6. `chgrp` para cambiar el grupo propietario de archivos y directorios.
+
+------------
+
+> Allan Josué Gómez - 202005035
