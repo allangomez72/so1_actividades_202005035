@@ -1,0 +1,10 @@
+[Unit]
+Description=Saludo infinito
+After=network.target
+
+[Service]
+ExecStart=/home/gomez/Documentos/so1_actividades_202005035
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
