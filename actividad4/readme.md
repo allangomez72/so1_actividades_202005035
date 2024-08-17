@@ -22,7 +22,7 @@ chmod -x saludo.sh
 
 2. **Crear el archivo de servicio**:
     - Guardar el siguiente contenido en `/etc/systemd/system/saludo.service`:
-   - [saludo.service](actividad4.md)
+   - [saludo.service](https://github.com/allangomez72/so1_actividades_202005035/blob/main/actividad4/saludo.service)
 3. **Habilitar y ejecutar el servicio**:
    1. Primero se debe recargar el demonio de systemd
    2. Luego se habilita el sevicio para que se inicie al arrancar el sistema
